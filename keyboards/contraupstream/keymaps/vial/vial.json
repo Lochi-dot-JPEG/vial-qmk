@@ -7,11 +7,6 @@
         "rows": 4,
         "cols": 12
     },
-    { "vial": {
-           "midi": "advanced"
-           ...
-       }
-    },
     "layouts": {
         "labels": [
             "2u Space"
